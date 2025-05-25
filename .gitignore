@@ -1,0 +1,107 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Archivos de construcción / distribución
+dist/
+dist-ssr/
+build/
+out/
+
+# Archivos de entorno y configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache de herramientas de desarrollo
+.vite/
+.cache/
+.parcel-cache/
+
+# Archivos del editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+*.lcov
+.nyc_output/
+
+# Archivos temporales
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de TypeScript
+*.tsbuildinfo
+
+# Archivos de ESLint
+.eslintcache
+
+# Archivos de pruebas
+.coverage/
+junit.xml
+
+# Archivos de Storybook
+storybook-static/
+
+# Archivos de Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Archivos de pruebas de Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Archivos de Next.js (por si usas Next en el futuro)
+.next/
+.vercel/
+
+# Archivos de Nuxt.js (por si usas Nuxt en el futuro)
+.nuxt/
+.output/
+
+# Archivos de Turbo
+.turbo/
+
+# Lock files alternos (mantener solo uno)
+# yarn.lock
+# pnpm-lock.yaml
+
+# Archivos de documentación generada
+docs/dist/
+
+# Archivos de configuración personal
+.env.development
+.env.staging
+.env.production 
